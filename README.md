@@ -6,10 +6,7 @@ An AI-Driven tool designed to automate forensic timleine analysis. The tool proc
 - Prerequisites
 - Installation
 - Usage
-- Project Structure
-- API Endpoints
-- Contributing
-- License
+- Contribution
 
 ## Features
 - Anomaly Detection: Identifies unusual patterns in forensic timelines generated using log2timeline
